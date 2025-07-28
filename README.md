@@ -28,9 +28,3 @@ Target classes:
 - **Train/Test Split**: 80/20
 - **Metric**: Accuracy and classification report
 
-## How to Run
-
-1. Clone this repository
-2. Install dependencies using:
-   ```bash
-   pip install -r requirements.txt
